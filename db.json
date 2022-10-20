@@ -10,7 +10,7 @@
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": "25.24"
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "id": 6,
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
-      "price": 25.99
+      "price": "25.97"
     },
     {
       "id": 7,
